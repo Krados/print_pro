@@ -5,5 +5,3 @@
 分類 pro_cateogory
 
 商品 pro_product
-
-123
