@@ -1,6 +1,7 @@
 <?php
 include_once("/templatepower/class.TemplatePower.inc.php");
 
+
 $tpl = new TemplatePower("/html/in-search-list.html");
 $tpl->assignInclude("rwd_header","/html/rwd_header.html");
 $tpl->assignInclude("rwd_footer","/html/rwd_footer.html");
